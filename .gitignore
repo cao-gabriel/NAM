@@ -1,0 +1,4 @@
+# ignore checkpoints of jupyter notebook
+*checkpoint*
+# ignore all graphs
+labs/graphs/*
