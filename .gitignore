@@ -3,3 +3,4 @@
 # ignore all graphs
 labs/graphs/*
 **__pycache*
+labs/MNIST_data/*
