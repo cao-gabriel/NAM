@@ -1,6 +1,6 @@
 # ignore checkpoints of jupyter notebook
 *checkpoint*
 # ignore all graphs
-labs/graphs/*
+labs/res/*
 **__pycache*
-labs/MNIST_data/*
+labs/res/MNIST_data/*
