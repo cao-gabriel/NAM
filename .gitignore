@@ -4,3 +4,4 @@
 labs/res/*
 **__pycache*
 labs/res/MNIST_data/*
+labs/output/*
